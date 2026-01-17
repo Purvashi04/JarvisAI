@@ -13,10 +13,3 @@ It listens to your **voice commands**, understands them with **VOSK (offline spe
 
 ---
 
-## Project Structure
-**jarvis-project**<br>
-┣ jarvis_vosk.py # Main Python file<br>
-┣ .env # Stores your OpenAI API key (not uploaded to GitHub)<br>
-┣ vosk-model # VOSK speech recognition model folder<br>
-┣ requirements.txt # Python dependencies<br>
-┗ README.md # Documentation<br>
