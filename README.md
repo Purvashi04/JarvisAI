@@ -4,6 +4,9 @@ J.A.R.V.I.S (**Just A Rather Very Intelligent System**) is a Python-based voice 
 It listens to your **voice commands**, understands them with **VOSK (offline speech recognition)**, talks back using **pyttsx3**, and can connect to **OpenAI GPT models** for intelligent responses.  
 
 ---
+### DEMO VIDEO:
+  -> https://drive.google.com/file/d/1oy2DBMQvIPxiPPT_ry-zTP-pyl7i_4Cn/view?usp=drive_link
+---
 
 ## Features
 - **Speech-to-Text (STT)** → Uses [VOSK](https://alphacephei.com/vosk/) for offline voice recognition.  
